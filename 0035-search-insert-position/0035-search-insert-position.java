@@ -7,17 +7,11 @@ class Solution {
         {
             mid =(end + start) / 2;
             if(nums[mid]==target)
-            {
                 return mid;
-            }
             else if(target >nums[mid])
-            {
                 start=mid+1;
-            }
-            else if (target<nums[mid])
-            {
+            else
                 end=mid-1;
-            }
         }
         return start;
     }
