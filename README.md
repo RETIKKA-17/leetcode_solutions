@@ -37,9 +37,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
