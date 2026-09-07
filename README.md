@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0867-transpose-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
