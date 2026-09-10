@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0198-house-robber) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
