@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -113,4 +115,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
