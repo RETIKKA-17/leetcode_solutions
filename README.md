@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -105,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -145,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0190-reverse-bits) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
