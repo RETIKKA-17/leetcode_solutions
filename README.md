@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
