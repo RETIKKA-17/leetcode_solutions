@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
