@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0198-house-robber](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0198-house-robber) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
