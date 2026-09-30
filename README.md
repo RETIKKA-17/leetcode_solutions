@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0190-reverse-bits) |
+| [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Merge Sort
 |  |
 | ------- |
