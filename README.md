@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0189-rotate-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
@@ -205,8 +206,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
