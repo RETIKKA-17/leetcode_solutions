@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0204-count-primes) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
 ## Merge Sort
