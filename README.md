@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
