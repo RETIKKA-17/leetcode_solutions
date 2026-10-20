@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0912-sort-an-array) |
