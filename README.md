@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0844-backspace-string-compare](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1768-merge-strings-alternately) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0844-backspace-string-compare](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RETIKKA-17/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
